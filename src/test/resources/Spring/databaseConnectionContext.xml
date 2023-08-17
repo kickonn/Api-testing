@@ -12,6 +12,7 @@
     <bean id="jsonHelper" class="appmanager.util.json.JSONHelper" scope="prototype"/>
 
     <bean id="ApiPage" class="pages.ApiPage"/>
+    <bean id="LoginPage" class="pages.LoginPage"/>
 
 
 

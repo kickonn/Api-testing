@@ -24,7 +24,7 @@ import java.util.Comparator;
         //
 //             dryRun = true,
         //tags={"@Smoke11,@Regression11,@Functional11"})
-        tags = {"@crud"})
+        tags = {"@Smoke123"})
 
 
 public class TestRunner extends AbstractTestNGCucumberTests {
